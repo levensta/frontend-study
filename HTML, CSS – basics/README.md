@@ -14,3 +14,11 @@
 * [Изображения](https://html5book.ru/images-in-html)
 * [Формы (кнопки, чекбоксы и т.д.)](https://html5book.ru/html5-forms/)
 * [Тег form](http://htmlbook.ru/html/form)
+
+### 3. Введение в CSS
+
+* [Селекторы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Selectors)
+* [Отношения селекторов](https://webref.ru/layout/advanced-html-css/complex-selectors)
+* [Псевдоэлементы](http://htmlbook.ru/samcss/psevdoelementy)
+* [Псевдоклассы](http://htmlbook.ru/css/cat/pseudoclass)
+* [Специфичность](https://developer.mozilla.org/ru/docs/Web/CSS/Specificity)

@@ -12,7 +12,11 @@
 
         <main class="global-results">
             <style>
-                /* ваш код здесь... */
+                /* чтобы указать спец-символ в css, необходимо взять его 16-ричный код и добавить \ */
+                /* таблица всех спец. символов: https://dev.w3.org/html5/html-author/charref */
+                a[href$=".zip"]:after {
+                    content: ' \2193';
+                }
             </style>
 
             <section class="global-result">

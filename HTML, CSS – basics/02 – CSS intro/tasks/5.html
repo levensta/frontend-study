@@ -12,7 +12,11 @@
 
         <main class="global-results">
             <style>
-                /* ваш код здесь... */
+                /* выбирается элемент с классом .tab, который идет следом после нажатой кнопки */
+                input[type="checkbox"]:checked ~ .tab {
+                    background: #000;
+                    color: #fff;
+                }
             </style>
 
             <section class="global-result">

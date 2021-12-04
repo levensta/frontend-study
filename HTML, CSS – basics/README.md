@@ -14,6 +14,7 @@
 * [Изображения](https://html5book.ru/images-in-html)
 * [Формы (кнопки, чекбоксы и т.д.)](https://html5book.ru/html5-forms/)
 * [Тег form](http://htmlbook.ru/html/form)
+* [Спец. символы](https://dev.w3.org/html5/html-author/charref)
 
 ### 3. Введение в CSS
 

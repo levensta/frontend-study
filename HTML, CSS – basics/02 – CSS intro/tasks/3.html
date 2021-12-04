@@ -12,7 +12,14 @@
 
         <main class="global-results">
             <style>
-                /* ваш код здесь... */
+                /* прямые div дети внутри article */
+                article > div {
+                    border: 2px solid #000;
+                }
+                /* все div потомки внутри div */
+                div div {
+                    background: #6698ff;
+                }
             </style>
 
             <section class="global-result">

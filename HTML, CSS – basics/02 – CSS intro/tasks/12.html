@@ -12,7 +12,13 @@
 
         <main class="global-results">
             <style>
-                /* ваш код здесь... */
+                /* <div></div> считается пустым т.к. между ними нет переноса строки в html*/
+                div:empty {
+                    background: #ff6;
+                }
+                div:not(:empty) {
+                    background: #ffb366;
+                }
             </style>
 
             <section class="global-result">

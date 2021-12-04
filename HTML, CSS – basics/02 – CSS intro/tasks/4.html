@@ -12,7 +12,10 @@
 
         <main class="global-results">
             <style>
-                /* ваш код здесь... */
+                /* все элементы article, которые идут после article (все в рамках одного родителя) */
+                article ~ article {
+                    border-top: 1px solid #000;
+                }
             </style>
 
             <section class="global-result">

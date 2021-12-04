@@ -12,7 +12,10 @@
 
         <main class="global-results">
             <style>
-                /* ваш код здесь... */
+                /* выбираем все НЕнажатые инпуты после нажатого */
+                input:checked ~ input:not(:checked) {
+                    outline: 1px solid #ff6698;
+                }
             </style>
 
             <section class="global-result">

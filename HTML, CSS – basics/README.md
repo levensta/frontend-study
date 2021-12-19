@@ -23,3 +23,10 @@
 * [Псевдоэлементы](http://htmlbook.ru/samcss/psevdoelementy)
 * [Псевдоклассы](http://htmlbook.ru/css/cat/pseudoclass)
 * [Специфичность](https://developer.mozilla.org/ru/docs/Web/CSS/Specificity)
+
+### 4. Шрифты
+
+* [Основный свойства шрифтов](https://html5book.ru/css-shrifty/)
+* [Подключение нестандартных шрифтов](https://htmlacademy.ru/blog/boost/frontend/fonts-loading)
+* [Многоколонночность текста](https://habr.com/ru/company/microsoft/blog/143158/)
+* [Переносы слов](http://htmlbook.ru/blog/perenosy-slov)

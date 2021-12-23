@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>animation</title>
+    <style>
+        .animation {
+            background-color: #f00;
+            width: 150px;
+            height: 150px;
+            animation: transformation 3s infinite alternate linear;
+            transition: background-color 500ms linear;
+        }
+
+        .animation:hover {
+            background-color: #ff0;
+        }
+
+        @keyframes transformation {
+            0% {
+                transform: translateX(0);
+            }
+            25% {
+                transform: translateX(100px);
+            }
+            50% {
+                transform: translateX(100px) translateY(100%);
+            }
+            75%, 100% {
+                transform: translateX(100px) translateY(100%) scale(2) rotate(145deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="animation"></div>
+</body>
+</html>

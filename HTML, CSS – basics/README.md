@@ -30,3 +30,9 @@
 * [Подключение нестандартных шрифтов](https://htmlacademy.ru/blog/boost/frontend/fonts-loading)
 * [Многоколонночность текста](https://habr.com/ru/company/microsoft/blog/143158/)
 * [Переносы слов](http://htmlbook.ru/blog/perenosy-slov)
+
+### 4. Анимации
+
+* [Трансформация](https://webref.ru/layout/advanced-html-css/transform)
+* [Переходы](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+* [Анимация](https://html5book.ru/css3-animation/)
